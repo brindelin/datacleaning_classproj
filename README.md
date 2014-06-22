@@ -1,7 +1,8 @@
 datacleaning_classproj
 ======================
 
-This is the repo for the datacleaning class course project.  This repo contains an r script named run_analysis that reads the processes the data from the UCI HAR Dataset and creates a tidy data set.  This script assumes the UCI Har Dataset is in in the current working directory.
+This is the repo for the datacleaning class course project.  This repo contains an r script named run_analysis that reads the processes the data from the UCI HAR Dataset and creates a tidy data set.  
+This script assumes the UCI Har Dataset is in the current working directory and the same directory as the script..
 
 The script then:
 
